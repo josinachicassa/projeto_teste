@@ -1,1 +1,4 @@
 ola mundo
+git remote add origin https://github.com/josinachicassa/projeto_teste.git
+git branch -M main
+git push -u origin main
